@@ -102,7 +102,7 @@ RUST_LOG=info cargo run --release -- --prove
 you will see 2 messages "successfully generated proof" and "successfully verified proof"
 
 
-
+![test proof-fibonacci](https://github.com/user-attachments/assets/a46e984c-5b24-4e04-8862-8711dd23d3ed)
 
 - Congratulations, you can flex on twitter and share the link on discord
 
